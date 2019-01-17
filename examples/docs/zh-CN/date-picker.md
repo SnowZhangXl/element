@@ -66,8 +66,8 @@
         value10: '',
         value11: '',
         value12: '',
-        value13: [],
-        value14: []
+        value13: '',
+        value14: ''
       };
     }
   };
@@ -89,7 +89,7 @@
       border-right: none;
     }
   }
-  
+
   .demo-date-picker .container {
     flex: 1;
     border-right: solid 1px #EFF2F6;
@@ -232,7 +232,7 @@
         value3: '',
         value4: '',
         value5: '',
-        value14: []
+        value14: ''
       };
     }
   };
@@ -418,7 +418,7 @@
   export default {
     data() {
       return {
-        value13: []
+        value13: ''
       };
     }
   };
@@ -450,6 +450,7 @@
 | unlink-panels | 在范围选择器里取消两个日期面板之间的联动 | boolean | — | false |
 | prefix-icon | 自定义头部图标的类名 | string | — | el-icon-date |
 | clear-icon | 自定义清空图标的类名 | string | — | el-icon-circle-close |
+| validate-event | 输入时是否触发表单的校验 | boolean | - | true |
 
 ### Picker Options
 | 参数      | 说明          | 类型      | 可选值                           | 默认值  |

@@ -158,7 +158,7 @@ Spanish documentation is made possible by these community developers:
 ## Donation
 If you find Element useful, you can buy us a cup of coffee
 
-<img width="650" src="https://user-images.githubusercontent.com/10095631/42198577-587063dc-7ebb-11e8-892b-91e08f99ce1e.jpg" alt="donation">
+<img width="650" src="https://user-images.githubusercontent.com/14025786/44833997-5d7c4d80-ac62-11e8-8445-1dffec0eb13c.png" alt="donation">
 
 ## Backers
 
@@ -231,6 +231,11 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 <a href="https://opencollective.com/element/sponsor/28/website" target="_blank"><img src="https://opencollective.com/element/sponsor/28/avatar.svg"></a>
 <a href="https://opencollective.com/element/sponsor/29/website" target="_blank"><img src="https://opencollective.com/element/sponsor/29/avatar.svg"></a>
 
+## Join Discusion Group
+
+Scan the QR code using [Dingtalk App](https://www.dingtalk.com/) to join in discusion group :
+
+<img alt="Join Discusion Group" src="https://user-images.githubusercontent.com/17680888/50588415-d9aaca00-0ebc-11e9-92e2-f71960346f85.png" width="300">
 
 
 ## LICENSE
